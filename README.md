@@ -10,6 +10,5 @@ Ao longo deste curso pela Alura, aprofundei meu entendimento sobre `Pandas`, uma
 - 🧮 Visualizá-los
 - ⚡ Explorar suas diferentes estruturas e tipos
 - 📐 Calcular estatísticas descritivas para obter insights valiosos a partir desses dados.
-- 
-🙏 Obrigado por visitar! Qualquer feedback ou contribuição é muito bem-vindo. Juntos, podemos tornar este repositório ainda melhor para a comunidade!
+
 
